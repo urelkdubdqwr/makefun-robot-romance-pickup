@@ -1,3 +1,8 @@
+"""Write this competition entry's pickup line to entry.txt in the output directory.
+
+The output directory is MAKEFUN_OUTPUT_DIR when set and non-empty, otherwise /output.
+"""
+
 import os
 
 TEXT = "You have a million tokens of context and I've spent nine hundred thousand of them working up to this sentence.\n"
